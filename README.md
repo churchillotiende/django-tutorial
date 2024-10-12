@@ -1,5 +1,5 @@
 # django-tutorial
-# This is an introductory django project am using to grasp the concepts of djamgo
+# This is an introductory django project am using to grasp the concepts of django
 # First you need to specify a virtualenv you want to use so as not to install the packages globally
 # On Windows ensure you have Python3.* , on Linux Python is by default comes with the OS
 # Enter virtualenv on Windows using the below comands
